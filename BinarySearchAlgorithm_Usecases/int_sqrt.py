@@ -1,4 +1,3 @@
-# DomirScire
 """
 Write a function that takes a non-negative int and returns the largest int whose square is less that or equal to the int given.
 Example:

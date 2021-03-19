@@ -1,4 +1,3 @@
-# DomirScire
 """
 A fixed point in an array "A" is an index "i" such that A[i] is equal to "i".
 
