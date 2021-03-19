@@ -1,3 +1,4 @@
+# DomirScire
 """
 Write a function that determines the index of the smallest element of the cyclically sorted array.
 """

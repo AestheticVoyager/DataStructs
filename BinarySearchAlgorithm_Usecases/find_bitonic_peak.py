@@ -1,3 +1,4 @@
+# DomirScire
 """
 Define a bitonic sequence as a sequence of integers such that:
     x_1 <= ... <= x_k >= ... >= x_n-1 for some k, 0 <= k < n.
